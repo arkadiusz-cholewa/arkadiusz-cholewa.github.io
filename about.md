@@ -4,7 +4,7 @@ title: O mnie
 permalink: /about/
 ---
 
-Student informatyki, miłośnik górskich wędrówek, entuzjasta konferencji IT.
+TODO...
 
 
 ![Arkadiusz Cholewa]({{ site.url }}/assets/me.jpg)
