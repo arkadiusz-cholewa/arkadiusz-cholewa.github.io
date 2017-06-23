@@ -4,5 +4,5 @@ title: O mnie
 permalink: /about/
 ---
 
-![Arkadiusz Cholewa](../me.jpg)
+![Arkadiusz Cholewa]({{ site.url }}/assets/me.jpg)
 
