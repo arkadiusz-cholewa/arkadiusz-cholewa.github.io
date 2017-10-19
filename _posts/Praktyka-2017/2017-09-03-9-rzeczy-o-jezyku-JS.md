@@ -45,7 +45,7 @@ Pierwszy, znany z innych języków programowania (C++, Java) to operator `==` kt
 Dlatego warunek `5 =='5'` będzie prawdziwy, ponieważ przed porównaniem `‘5’` jest konwertowana na wartość `5` i dopiero po konwersji następuje porównanie wartości. 
 
 ```javascript
-5 == 5 // true
+5 == '5' // true
 ```
 
 Aby mieć większą kontrolę nad porównywaniem zmiennych JavaScript posiada operator `===`, który porówna wartość oraz typ zmiennych i nie pozwali na wcześniejszą konwersję zmiennych, tak jak w przypadku operatora `==`. 
