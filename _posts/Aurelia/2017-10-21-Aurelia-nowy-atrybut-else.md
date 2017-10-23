@@ -6,7 +6,7 @@ categories:
 ---
 
 Nowy atrybut `else` wprowadzony do frameworka pozwala na utworzenie w widoku instrukcji warunkowej `if`/`else`.
-Przed wprowadzeniem nowego atrybutu, aby napisać kod działający tak jak instrukcja `if`/`else`  należało dwukrotnie zbindować atrybut if, następnie wartość jednego z nich zanegować operatorem `!` aby móc obsłużyć wartość nie prawdziwą.
+Przed wprowadzeniem nowego atrybutu, aby napisać kod działający tak jak instrukcja `if`/`else`  należało dwukrotnie zbindować atrybut `if`, następnie wartość jednego z nich zanegować operatorem `!` aby móc obsłużyć wartość nie prawdziwą.
 
 {% highlight css %}
 <template>
