@@ -3,7 +3,8 @@ layout: post
 title:  "10 rzeczy o języku C#, które nauczyłem się podczas pierwszego miesiąca praktyk.
 "
 date:   2017-08-08 -0600
-categories: 
+categories: [csharp]
+tags: [C#, Value Type, Refererence Type, StringBuilder, Nullable Types, LINQ, params, Action, Func, Extension Methods, Lazy evaluation, Tuple]
 ---
 
 Witam Cię, Czytelniku, w moim pierwszym artykule podsumowującym pierwszy miesiąc praktyk. Jestem studentem 3 roku Informatyki Stosowanej. Moją Alma Mater jest Akademia-Górniczo Hutnicza im. Stanisława Staszica w Krakowie. Studiuję dziennie na Wydziale Inżynierii Metali i Informatyki Przemysłowej. 
@@ -24,7 +25,7 @@ Rozwiązaniem tego problemu może być wykorzystanie klasy `StringBuilder`, któ
 - [W tym filmie przedstawione są różnice pomiędzy stringiem, a klasą StringBuilder](https://www.youtube.com/watch?v=4lFAs6FYTXg)
 - [Link do artykuły wyjaśniającego niezmienność typu string w C#](http://www.c-sharpcorner.com/UploadFile/b1df45/string-is-immutable-in-C-Sharp/)
 
-## 3. NullableTypes ##
+## 3. Nullable Types ##
    
 Value Type nie posiada wartości `null`. Jednakże istnieje typ, który pozwoli przypisać do takiej zmiennej wartość `null`.
 Typ ten posiada dwie metody zapisu: `Nullable<T>` lub krótszy `T?`.

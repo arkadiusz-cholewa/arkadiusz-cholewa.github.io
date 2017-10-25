@@ -2,7 +2,7 @@
 layout: post
 title:  "Aurelia - nowy atrybut: else"
 date:   2017-10-21 -0600
-categories: 
+categories: [aurelia]
 ---
 
 Nowy atrybut `else` wprowadzony do frameworka pozwala na utworzenie w widoku instrukcji warunkowej `if`/`else`.

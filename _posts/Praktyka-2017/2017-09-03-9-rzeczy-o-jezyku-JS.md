@@ -2,7 +2,8 @@
 layout: post
 title:  "9 rzeczy o języku JavaScript, które nauczyłem się po dwóch miesiącach praktyki."
 date:   2017-09-11 -0600
-categories: 
+categories: [javascript]
+tags: [let, ternary operator, Truthy, Falsy, Destructuring assignment, Arrow functions, Lodash ]
 ---
 
 W moim [pierwszym artykule](https://arkadiusz-cholewa.github.io/2017/08/08/10-rzeczy-o-jezyku-C.html) poruszyłem temat funkcjonalności w języku C# poznanych podczas pierwszego miesiąca praktyk. W czasie praktyki mam możliwość współtworzenia frontendu aplikacji właśnie przy pomocy języka JavaScript. Korzystamy również z wielu bibliotek i frameworka, ale to temat na inny artykuł. 

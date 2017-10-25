@@ -17,6 +17,9 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
+        {% for category in post.categories %}
+        <a  href="categories/{{ category }}">{{ category }}</a>
+    {% endfor %}
       </li>
     {% endfor %}
   </ul>
