@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Aurelia - nowy atrybut: else"
+title:  "Aurelia - nowy atrybut: else."
 date:   2017-10-21 -0600
 categories: [aurelia]
 ---
