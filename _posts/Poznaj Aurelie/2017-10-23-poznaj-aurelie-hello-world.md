@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "1. Poznaj Aurelię! Instalacja oraz pierwszy projekt \"Hello World!\"."
-date:   2017-10-28 -0600
+date:   2017-10-31 -0600
 categories: [aurelia]
 tags: 
 ---
 
 ![Aurelia]({{ site.url }}/assets/aurelia_logo.png)    
 
-Witaj Czytelniku! Poznaj [Aurelię](http://aurelia.io/), nowoczesny javascript framework wykorzystujący proste konwencje, które umacniają Twoją kreatywność! 
+Witaj Czytelniku! Poznaj [Aurelię](http://aurelia.io/) (wersja 1.1.5) - nowoczesny javascript framework wykorzystujący proste konwencje, które umacniają Twoją kreatywność.
 
 Seria "Poznaj Aurelię!" jest dedykowana dla osób początkujących. 
 Poznaj podstawy frameworka, które w szybki i przyjemny sposób pozwolą Ci zbudować Twój pierwszy projekt [SPA](http://blog.brand24.pl/spa-kontra-tradycja/).
@@ -38,17 +38,17 @@ Zaakceptuj domyślne ustawienia (3 x enter). Instalacja zależności może zają
 
 ` au run --watch `
 
-# 6. Wejdź w przeglądarce pod adres [http://localhost:9000](http://localhost:9000). #
+# 6. Wejdź w przeglądarce na adres [http://localhost:9000](http://localhost:9000). #
 
 ## Powinieneś zobaczyć napis "Hello World!". ##
 
 Gotowe! Stworzyłeś właśnie swój pierwszy projekt! 
-Dla Twojej świadomości, to co właśnie stworzyłeś to aplikacja działającą w przeglądarce napisana w języku javascript. 
+To aplikacja działającą w przeglądarce napisana w języku javascript. 
 
 ---
 <br />
 
-W następnych częściach będziesz potrzebował edytora kodu. Dlatego:
+W następnych częściach będziesz potrzebował edytora kodu, dlatego:
 
 # 1. Zainstaluj [Visual Studio Code](https://code.visualstudio.com/). #
 # 2. Zainstaluj plugin do Aurelii. #
@@ -57,6 +57,6 @@ W następnych częściach będziesz potrzebował edytora kodu. Dlatego:
 ---
 <br />
 
-W razie jakichkolwiek pytań/problemów pisz śmiało: [arkadiusz.cholewaa@gmail.com](mailto: arkadiusz.cholewaa@gmail.com)
+W razie jakichkolwiek pytań/problemów pisz śmiało: [@arekcholewa](https://twitter.com/arekcholewa)
            
 Przejdź do kolejnej części
