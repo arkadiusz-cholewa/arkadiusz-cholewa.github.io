@@ -7,4 +7,4 @@ categories: [aurelia]
 
 Dnia 06.12.2017 podczas spotkania [studenckiej grupy .NET Politechniki Krakowskiej](https://www.facebook.com/grupa.pk.net/) miałem po raz pierwszy okazje poprowadzić prezentację pod tytułem **"Single Page Applications with Aurelia"** . 
 
-Prezentacja jest dostępna [online.](http://slides.com/arkadiuszcholewa/deck-1)
+Prezentacja jest dostępna [online.](http://slides.com/arkadiuszcholewa/spas-with-aurelia)
